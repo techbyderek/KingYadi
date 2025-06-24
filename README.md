@@ -10,12 +10,12 @@
 ### 👨‍💻 Programación Full Stack
 
 **Frontend:**
-- HTML, CSS, JavaScript, JSON  (en proceso de aprendizaje)
-- 🧭 Meta futura: React, Bootstrap
+- HTML, CSS, JavaScript (en proceso de aprendizaje)
+- 🧭 Meta futura: React
 
 **Backend:**
-- C++, C#, Node.js  (en proceso de aprendizaje)
-- ☁️ Meta futura: Firebase
+- C++, Python, SQL  (en proceso de aprendizaje)
+- ☁️ Meta futura: Node.js
 
 ### 🎮 Game Dev:
 - Unreal Engine 5 (Blueprints + C++)
