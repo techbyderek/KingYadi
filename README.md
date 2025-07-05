@@ -36,7 +36,6 @@
 ---
 
 ## 📫 Contact Me
-
 - 📹 **Social media:** https://linktr.ee/techbyderek 
 - 📧 **Email:** [techbyderek@outlook.com](mailto:techbyderek@outlook.com)
 - 🌐 **Personal portfolio:** *coming soon...*
