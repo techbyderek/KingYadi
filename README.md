@@ -38,5 +38,5 @@
 ## 📫 Contact Me
 
 - 📹 **Social media:** https://linktr.ee/techbyderek 
-- 📧 **Email:** [k1ngyad1@outlook.com](mailto:k1ngyad1@outlook.com)
+- 📧 **Email:** [techbyderek@outlook.com](mailto:techbyderek@outlook.com)
 - 🌐 **Personal portfolio:** *coming soon...*
