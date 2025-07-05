@@ -1,41 +1,42 @@
-# 👋 ¡Hola! Soy KingYadi
+# 👋 Hi! I'm Derek
 
-🎓 Estudiante de Ciencias de Computadoras en la UNC en North Carolina at Charlotte
-🚀 Apasionado por la Inteligencia Artificial, Robótica, el Desarrollo de Videojuegos y Full Stack Development
+🎓 **Computer Science student at UNC Charlotte (University of North Carolina at Charlotte)**  
+🚀 Passionate about **Artificial Intelligence**, **Robotics**, **Game Development**, and **Full Stack Development**
 
 ---
 
-## 🔧 Habilidades en progreso:
+## 🔧 Skills in Progress
 
-### 👨‍💻 Programación Full Stack
+### 👨‍💻 Full Stack Programming
 
 **Frontend:**
-- HTML, CSS, JavaScript (en proceso de aprendizaje)
-- 🧭 Meta futura: React
+- HTML, CSS, JavaScript *(currently learning)*
+- 🧭 *Future goal:* React
 
 **Backend:**
-- C++, Python, SQL  (en proceso de aprendizaje)
-- ☁️ Meta futura: Node.js
+- C++, Python, SQL *(currently learning)*
+- ☁️ *Future goal:* Node.js
 
-### 🎮 Game Dev:
-- Unreal Engine 5 (Blueprints + C++)
-  
-### 🤖 IA y Robótica:
-- Introducción a lógica de AI y simulaciones básicas
-- Exploración de sensores, simuladores y control robótico
+### 🎮 Game Development
+- Unreal Engine 5 *(Blueprints + C++)*
 
-### 🔄 Herramientas:
-- Git & GitHub para control de versiones
+### 🤖 AI & Robotics
+- Intro to AI logic and basic simulations  
+- Exploring sensors, simulators, and robotic control
+
+### 🔄 Tools
+- Git & GitHub for version control  
 - Visual Studio Code / Visual Studio / Replit
 
 ---
 
-## 🛠️ Proyectos en camino:
-- 🎯 Primer videojuego en Unreal Engine
+## 🛠️ Projects in Progress
+- 🎯 First video game in Unreal Engine 5
 
 ---
 
-## 📫 Cómo contactarme:
-- 📧 Email: k1ngyad1@outlook.com
-- 🌐 Portafolio personal: próximamente...
+## 📫 Contact Me
 
+- Social media: ** https://linktr.ee/techbyderek **
+- 📧 **Email:** [k1ngyad1@outlook.com](mailto:k1ngyad1@outlook.com)
+- 🌐 **Personal portfolio:** *coming soon...*
