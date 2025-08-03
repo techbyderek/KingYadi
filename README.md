@@ -1,7 +1,8 @@
 # 👋 Hi! I'm Derek
 
-🎓 **Computer Science student at UNC Charlotte (University of North Carolina at Charlotte)**  
-🚀 Passionate about **Artificial Intelligence**, **Robotics**, **Game Development**, and **Full Stack Development**
+🎓 *Future student at UNC Charlotte — Fall 2026*  
+🎯 *Computer Science, B.S. — Concentration in AI, Robotics, and Game Development*
+📚 *Currently enrolled in a Full Stack Web Development Bootcamp*
 
 ---
 
@@ -10,28 +11,38 @@
 ### 👨‍💻 Full Stack Programming
 
 **Frontend:**
-- HTML, CSS, JavaScript *(currently learning)*
-- 🧭 *Future goal:* React
+- 🧭 HTML, CSS, JavaScript & React *(currently learning)*
 
 **Backend:**
-- C++, Python, SQL *(currently learning)*
-- ☁️ *Future goal:* Node.js
+- ☁️ Node.js, Express.js & Rest APIs *(currently learning)*
+- 🥏 C++ & Python *(basic knowledge)*
 
-### 🎮 Game Development
-- Unreal Engine 5 *(Blueprints + C++)*
+** Batabase:**
+- 📈 MongoDB *(currently learning)*
 
-### 🤖 AI & Robotics
-- Intro to AI logic and basic simulations  
-- Exploring sensors, simulators, and robotic control
+### 📰 Certifications
+- Google IT Support (2024)
+- CompTIA A+ *(coming soon...2025)*
+- AWS Cloud Practitioner *(coming soon...2026)*
+
 
 ### 🔄 Tools
-- Git & GitHub for version control  
-- Visual Studio Code / Visual Studio / Replit
+- Git & GitHub for version control
+- Gitlab
+- Visual Studio Code 
+- Command Line Interface (CLI)  
+- Agile methodologies (Scrum, Kanban)  
+- Testing and debugging techniques
+
+## 🎮 Hobby
+
+- Learning Unreal Engine 5 to create my first video game *(Blueprints + C++)*
 
 ---
 
 ## 🛠️ Projects in Progress
-- 🎯 First video game in Unreal Engine 5
+- 🎯 First video game in Unreal Engine 5 
+- 💻 Bootcamp projects in full stack development *(coming soon)*
 
 ---
 
