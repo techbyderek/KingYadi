@@ -17,7 +17,7 @@
 - ☁️ Node.js, Express.js & Rest APIs *(currently learning)*
 - 🥏 C++ & Python *(basic knowledge)*
 
-** Batabase:**
+**Batabase:**
 - 📈 MongoDB *(currently learning)*
 
 ### 📰 Certifications
