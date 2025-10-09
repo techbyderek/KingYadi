@@ -11,7 +11,7 @@ Outside of coding, you'll find me playing videogames (I love history games), hit
  - I want more tattoos even though I have a lot of them.
  - Everyone mostly knows me by 'Yadi'.
 
-   # Free jokes: 😎
+# Free jokes: 😎
    “When I wrote this code, only God and I understood what I did. Now only God knows.”
 
 
