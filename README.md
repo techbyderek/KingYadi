@@ -12,7 +12,7 @@ Outside of coding, you'll find me playing videogames (I love story games), hitti
  - Everyone mostly knows me by 'Yadi'.
 
 # Free jokes: 😎
-   “When I wrote this code, only God and I understood what I did. Now only God knows.”
+   “When I wrote this code, only God and I understood what I did. Now only God knows.” ✞
 
 
 
