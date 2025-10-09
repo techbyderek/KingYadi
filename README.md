@@ -7,7 +7,7 @@ Outside of coding, you'll find me playing videogames (*I love story games*), hit
 
 # Fun Facts:
  - I like to stream. ツ
- - I have two dogs, Julieta and Hanzo. 
+ - I have two dogs, Julieta and Hanzo. ੯·̀͡⬮
  - I want more tattoos even though I have a lot of them.
  - Everyone mostly knows me by 'Yadi'.
 
